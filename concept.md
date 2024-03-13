@@ -14,4 +14,3 @@ Combat Minigame
 Purchaseable Upgrades that persist between rounds
     - Perks for the figures (Skill Tree)
 Features
-    - dasdasdsad
